@@ -1,0 +1,19 @@
+first open firebase with your gmail
+
+then create project with name auth
+
+for this project no need of google analytics
+
+then go to project overview
+
+click build
+
+in build go to authentication and click sign in
+
+in sign in enable email/password option
+
+then go to project settings and click general
+
+create a web app and copy the code in new firebase.js fill in src folder
+
+
